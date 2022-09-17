@@ -1,0 +1,38 @@
+a {
+  cursor: pointer;
+}
+
+a:hover {
+  color: orangered;
+}
+
+.btn {
+  color: #fff;
+  opacity: .75;
+  font-size: 22px;
+  text-decoration: underline;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btn:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn:active {
+  color: orangered;
+}
+
+.activity {
+  border-radius: 15px;
+  text-decoration: underline;
+}
+
+.activity:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.activity:active {
+  color: orangered;
+}
